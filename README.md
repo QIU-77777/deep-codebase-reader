@@ -1,6 +1,6 @@
 # Deep Codebase Reader
 
-> 系统化精读任意 GitHub 开源项目，生成完整的 `explain/` 文档体系。
+> 一个系统化精读任意 GitHub 开源项目的skill，生成完整的 `explain/` 文档体系。
 
 ## 用途
 
